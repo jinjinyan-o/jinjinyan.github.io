@@ -86,7 +86,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Jinjin Yan"
 
 markup:
     goldmark:
