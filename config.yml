@@ -11,13 +11,13 @@ taxonomies:
 
 menu:
     main:
-        - name: Dashboard
-          url: dashboard/
+        - name: Resume
+          url: 
           weight: 1
         - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Musicals
           url: courses/
           weight: 3
         - name: Photography
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Jinjin Yan
-          subtitle: "I am a postdoctoral fellow at Fordham University. I got my Ph.D. from University of Texas at Austin.
+          subtitle: "Hello!I am a postdoctoral fellow at Fordham University. I got my Ph.D. from University of Texas at Austin.
                      In 2025/2026, I will be on the academic job market."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
