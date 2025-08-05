@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Resume
-          url: 
+          url: CV/
           weight: 1
         - name: Publications
           url: papers/
@@ -31,7 +31,7 @@ params:
     images: ["cover.png"]
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -56,11 +56,11 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Dashboard
-              url: dashboard/  
+            - name: Resume
+              url: CV/ 
             - name: Publications
               url: papers/
-            - name: Courses
+            - name: Musicals
               url: courses/
             - name: Photography
               url: design/
@@ -69,14 +69,15 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: jinjinyan.67@gmail.com
+          url: mailto:jinjinyan.67@gmail.com
         - name: Location
           url: location/
-        - name: Office Hours 
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=HitQqrgAAAAJ
-   
+        - name: LinkedIn
+          url: https://linkedin.com/in/jinjin-yan-936300205/
+       - name: ORCID
+          url: https://orcid.org/0000-0002-9278-3115
 
     assets:
         disableScrollBarStyle: true
