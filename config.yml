@@ -52,8 +52,8 @@ params:
           title: Jinjin Yan
           subtitle: "I am a postdoctoral fellow at Fordham University. I got my Ph.D. from University of Texas at Austin."
           imageUrl: "/picture.jpeg"
-          imageWidth: 130
-          imageHeight: 130
+          imageWidth: 160
+          imageHeight: 160
           buttons:
             - name: Dashboard
               url: dashboard/  
