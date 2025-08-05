@@ -17,12 +17,12 @@ menu:
         - name: Publications
           url: papers/
           weight: 2
-        - name: Musicals
-          url: courses/
-          weight: 3
-        - name: Photography
-          url: design/
-          weight: 4        
+      #  - name: Musicals
+        #  url: courses/
+        #  weight: 3
+      #  - name: Photography
+        #  url: design/
+        #  weight: 4        
 
 params:
     description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and a real-time business cycle dashboard."
@@ -50,18 +50,21 @@ params:
     profileMode:
           enabled: true
           title: Jinjin Yan
-          subtitle: "Hello!I am a postdoctoral fellow in Developmental Psychology at Fordham University. I got my Ph.D. from University of Texas at Austin.
-                     In 2025/2026, I will be on the academic job market.
+          subtitle: "Hello! I am a postdoctoral fellow in Developmental Psychology at Fordham University. I got my Ph.D. in Human Development and Family Sciences 
+                     from University of Texas at Austin.
+                     In 2025/2026, I am on the academic job market.
 
                      <br><br>
-                     My research projects at Purdue tackles the socio-technical aspects of Large Language Models (LLM). I  empirically
-                     study the correctness and quality issues of LLMs, and build interactive tools that can aid end-users in analyzing and understanding
-                     issues such as misinformation or stereotypes hidden in LLMs.
+                     My research focuses on understanding the health and well-being of ethnically-racially diverse adolescents and their parents within intersecting 
+                     cultural, family, and neighborhood contexts. I have expertise in daily-level and longitudinal analyses, applying advanced statistical methods to
+                     address questions in developmental and health sciences.
 
                      <br><br>
-                     Before coming to Purdue, I received my M.Sc. in Computer Science and Engineering from Texas A&M University in May 2020.
-                     I completed my Bachelor's degree from Bangladesh University of Engineering and Technology (BUET). I grew up in the magical Dhaka city of Bangladesh.
-                     I love reading fiction 📖, and I'm a huge plant lover! 🌵🌱
+                     I grew up in Xi’an 🏮, one of the oldest cities in China with a history of over 3,000 years and the capital of thirteen ancient dynasties. 
+                     Known as the starting point of the ancient Silk Road, Xi’an is home to iconic landmarks such as the Terracotta Army and its well-preserved city walls.
+                     
+                     I’m passionate about Broadway and West End musicals 🎭, exploring the world 🌍, capturing moments through photography 📸, and caring 
+                     for my plants 🌱.
 
                      <br> <br>
 
@@ -75,10 +78,10 @@ params:
               url: CV/ 
             - name: Publications
               url: papers/
-            - name: Musicals
-              url: courses/
-            - name: Photography
-              url: design/
+            #- name: Musicals
+             # url: courses/
+            #- name: Photography
+             # url: design/
 
     socialIcons:
         - name: CV
