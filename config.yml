@@ -14,13 +14,13 @@ menu:
         - name: Dashboard
           url: dashboard/
           weight: 1
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
-        - name: Design
+        - name: Photography
           url: design/
           weight: 4        
 
@@ -61,7 +61,7 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Design
+            - name: Photography
               url: design/
 
     socialIcons:
